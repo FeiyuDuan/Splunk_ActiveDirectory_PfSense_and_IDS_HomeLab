@@ -55,3 +55,11 @@ Use Kali Linux to conduct red team activities, such as simulating brute force at
 Deploy Security Onion to monitor network traffic and detect intrusions. Analyze responses to simulated attacks and collect data for further investigation, enhancing the overall security posture of the environment.
 
 ---
+
+## **Conclusion**
+
+This project has successfully demonstrated the setup of a security-focused lab, integrating Active Directory, Splunk, Kali Linux, PfSense, and Security Onion. Through simulating attacks and analyzing data, I gained hands-on experience in both offensive and defensive security practices. The use of PfSense for network security and Security Onion for intrusion detection provided a comprehensive framework for monitoring and responding to threats. This lab has enhanced my understanding of security operations and the tools needed to build a scalable SOC environment.
+
+Thank you for checking out my project!
+
+---
