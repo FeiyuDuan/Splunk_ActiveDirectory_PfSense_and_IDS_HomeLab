@@ -55,11 +55,3 @@ Use Kali Linux to conduct red team activities, such as simulating brute force at
 Deploy Security Onion to monitor network traffic and detect intrusions. Analyze responses to simulated attacks and collect data for further investigation, enhancing the overall security posture of the environment.
 
 ---
-
-## **Conclusion**
-
-This project allows me to combine both offensive and defensive security practices in one setup. By building this environment, I’ve gained deeper insights into managing an enterprise-level Active Directory infrastructure and performing red team operations. It’s been an incredibly rewarding experience to see both sides of security—how attacks are executed and how they’re detected and mitigated.
-
-Thank you for checking out my project! Feel free to reach out if you have any questions or suggestions.
-
----
