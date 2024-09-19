@@ -14,8 +14,8 @@ The lab environment simulates a SOC where real-time monitoring and response to s
 
 ## **Lab Specifications**
 
-- **PfSense Firewall**: Securing the network with pfSense-CE
-- **Splunk**: Using the free version for log collection and analysis
+- **PfSense Firewall**: Firewall and network routing with pfSense-CE
+- **Splunk**: For log collection, log correlation and analysis
 - **Kali Linux**: For red team activities
 - **Security Onion**: Network monitoring and IDS
 
