@@ -40,7 +40,7 @@ Plan and create a detailed network diagram outlining the connections between Act
 Download and install the necessary software, including Windows Server, Splunk, Kali Linux, PfSense, and Security Onion. Set up the virtual machines in VMware to prepare the lab environment for testing and monitoring.
 
 ### **3. PfSense Configuration**
-Configure PfSense as a firewall to manage and secure network traffic between the different subnets in the lab. It plays a key role in protecting the network and controlling access.
+Configure pfSense as both a firewall and a network router to manage and secure network traffic between the various subnets in the lab. It will play a critical role in safeguarding the network by controlling access and directing traffic efficiently across different network segments.
 
 ### **4. Configuring Ubuntu Server and Splunk**
 Install and configure Splunk on Ubuntu Server. Set it up to collect and analyze logs from different components in the environment, ensuring efficient data ingestion for security analysis.
@@ -49,7 +49,7 @@ Install and configure Splunk on Ubuntu Server. Set it up to collect and analyze 
 Install and configure Active Directory on Windows Server. Create users, set up domain management, and join the Windows 10 client to the domain for a fully functioning directory service.
 
 ### **6. Kali Linux Red Team Operations**
-Use Kali Linux to conduct red team activities, such as simulating brute force attacks. Capture and analyze logs to gain insights into potential vulnerabilities and telemetry from these attacks.
+Use Kali Linux to conduct red team activities, such as simulating Kerberos attacks. Capture and analyze logs to gain insights into potential vulnerabilities and telemetry from these attacks.
 
 ### **7. Intrusion Detection with Security Onion**
 Deploy Security Onion to monitor network traffic and detect intrusions. Analyze responses to simulated attacks and collect data for further investigation, enhancing the overall security posture of the environment.
